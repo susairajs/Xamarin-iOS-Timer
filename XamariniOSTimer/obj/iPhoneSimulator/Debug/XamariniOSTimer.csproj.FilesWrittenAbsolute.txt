@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/bin/iPhoneSimulator/Debug/XamariniOSTimer.exe.mdb
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/bin/iPhoneSimulator/Debug/XamariniOSTimer.exe
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/obj/iPhoneSimulator/Debug/XamariniOSTimer.exe
+/Users/DELPIN/Projects/XamariniOSTimer/XamariniOSTimer/obj/iPhoneSimulator/Debug/XamariniOSTimer.exe.mdb
